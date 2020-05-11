@@ -78,3 +78,14 @@ E:\workspace\ASP.NET\OdeToFoodMvc5\OdeToFood\OdeToFood.Web\obj\Debug\OdeToFood.W
 E:\workspace\ASP.NET\OdeToFoodMvc5\OdeToFood\OdeToFood.Web\obj\Debug\OdeToFood.Web.pdb
 E:\workspace\ASP.NET\OdeToFoodMvc5\OdeToFood\OdeToFood.Web\bin\OdeToFood.Data.dll
 E:\workspace\ASP.NET\OdeToFoodMvc5\OdeToFood\OdeToFood.Web\bin\OdeToFood.Data.pdb
+E:\workspace\ASP.NET\OdeToFoodMvc5\OdeToFood\OdeToFood.Web\bin\Autofac.dll
+E:\workspace\ASP.NET\OdeToFoodMvc5\OdeToFood\OdeToFood.Web\bin\Autofac.Integration.Mvc.dll
+E:\workspace\ASP.NET\OdeToFoodMvc5\OdeToFood\OdeToFood.Web\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\workspace\ASP.NET\OdeToFoodMvc5\OdeToFood\OdeToFood.Web\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\workspace\ASP.NET\OdeToFoodMvc5\OdeToFood\OdeToFood.Web\bin\System.Threading.Tasks.Extensions.dll
+E:\workspace\ASP.NET\OdeToFoodMvc5\OdeToFood\OdeToFood.Web\bin\Autofac.pdb
+E:\workspace\ASP.NET\OdeToFoodMvc5\OdeToFood\OdeToFood.Web\bin\Autofac.xml
+E:\workspace\ASP.NET\OdeToFoodMvc5\OdeToFood\OdeToFood.Web\bin\Autofac.Integration.Mvc.xml
+E:\workspace\ASP.NET\OdeToFoodMvc5\OdeToFood\OdeToFood.Web\bin\Microsoft.Bcl.AsyncInterfaces.xml
+E:\workspace\ASP.NET\OdeToFoodMvc5\OdeToFood\OdeToFood.Web\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\workspace\ASP.NET\OdeToFoodMvc5\OdeToFood\OdeToFood.Web\bin\System.Threading.Tasks.Extensions.xml
