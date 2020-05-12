@@ -9,16 +9,17 @@ namespace OdeToFood.Web.Controllers
 {
     public class HomeController : Controller
     {
-        IRestaurant Db;
+        IRestaurantData db;
 
-        public HomeController(IRestaurant db)
+        public HomeController(IRestaurantData db)
         {
-            Db = db;
+            this.db = db;
         }
+
         public ActionResult Index()
         {
-            var res = Db.GetAll();
-            return View(res);
+            var model = db.GetAll();
+            return View(model);
         }
 
         public ActionResult About()
